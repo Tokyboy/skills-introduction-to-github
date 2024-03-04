@@ -1,1 +1,1 @@
-Welcome to my HitHup
+Welcome to my GitHup
